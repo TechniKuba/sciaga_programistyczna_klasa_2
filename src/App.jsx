@@ -19,10 +19,16 @@ const App = () => {
   return (
     <div>
       <h1>Ściąga programistyczna</h1>
-      <p>{notes.length}</p>
+      <ul>
+        {notes.map((note) => (
+          <li key={note.id}>
+            <h2>{note.tittle}</h2>
+            <p>{note.tittle}</p>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 };
-<p>{notes.length}</p>;
 
 export default App;
