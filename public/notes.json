@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Czym jest atom",
+    "category": "Chemia",
+    "content": "Atom to bardzo mala czastka, z ktorej zbudowana jest cala materia."
+  },
+  {
+    "id": 2,
+    "title": "Co robi chlorofil",
+    "category": "Biologia",
+    "content": "Chlorofil to zielony barwnik w roslinach, dzieki ktoremu lapia swiatlo do fotosyntezy."
+  },
+  {
+    "id": 3,
+    "title": "Stolica Polski",
+    "category": "Geografia",
+    "content": "Stolica Polski to Warszawa, lezy nad Wisla."
+  },
+  {
+    "id": 4,
+    "title": "Chrzest Polski",
+    "category": "Historia",
+    "content": "Mieszko I przyjal chrzest w 966 roku i Polska weszla do rodziny panstw chrzescijanskich."
+  }
+]
